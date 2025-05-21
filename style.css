@@ -29,7 +29,9 @@ section {
   max-width: 1000px;
   margin: 0 auto;
 }
-section:nth-child(odd) {
+
+.infographics,
+.mission {
   background-color: #f0ede9;
 }
 
