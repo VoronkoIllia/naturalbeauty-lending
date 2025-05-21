@@ -53,6 +53,11 @@ section:nth-child(odd) {
   position: relative;
   left: 40px;
 }
+.history .content img {
+  align-self: center;
+  position: relative;
+  left: 40px;
+}
 .media-block {
   display: flex;
   flex-direction: column;
